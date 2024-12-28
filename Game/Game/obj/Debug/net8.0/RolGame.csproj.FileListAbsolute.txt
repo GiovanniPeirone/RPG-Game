@@ -1,0 +1,15 @@
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\bin\Debug\net8.0\RolGame.exe
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\bin\Debug\net8.0\RolGame.deps.json
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\bin\Debug\net8.0\RolGame.runtimeconfig.json
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\bin\Debug\net8.0\RolGame.dll
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\bin\Debug\net8.0\RolGame.pdb
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\RolGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\RolGame.AssemblyInfoInputs.cache
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\RolGame.AssemblyInfo.cs
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\RolGame.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\RolGame.sourcelink.json
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\RolGame.dll
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\refint\RolGame.dll
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\RolGame.pdb
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\RolGame.genruntimeconfig.cache
+C:\Users\Giovanni Peirone\Documents\GitHub\Rol-Game\Game\Game\obj\Debug\net8.0\ref\RolGame.dll

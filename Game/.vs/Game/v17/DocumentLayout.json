@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|c:\\users\\giovanni peirone\\documents\\github\\rol-game\\game\\game\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|solutionrelative:game\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|c:\\users\\giovanni peirone\\documents\\github\\rol-game\\game\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\Game.csproj|c:\\users\\giovanni peirone\\documents\\github\\rol-game\\game\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\Game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|c:\\users\\giovanni peirone\\documents\\github\\rol-game\\game\\game\\rendererbyconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|solutionrelative:game\\rendererbyconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|c:\\users\\giovanni peirone\\documents\\github\\rol-game\\game\\game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|solutionrelative:game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89F18C01-2498-4260-9DB8-1130C1B5D253}|Game\\RolGame.csproj|c:\\users\\giovanni peirone\\documents\\github\\rol-game\\game\\game\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,43 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Renderer.cs",
-              "DocumentMoniker": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\Renderer.cs",
-              "RelativeDocumentMoniker": "Game\\Renderer.cs",
-              "ToolTip": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\Renderer.cs",
-              "RelativeToolTip": "Game\\Renderer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\Game.cs",
+              "RelativeDocumentMoniker": "Game\\Game.cs",
+              "ToolTip": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\Game.cs",
+              "RelativeToolTip": "Game\\Game.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T03:26:35.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RendererByConsole.cs",
+              "DocumentMoniker": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\RendererByConsole.cs",
+              "RelativeDocumentMoniker": "Game\\RendererByConsole.cs",
+              "ToolTip": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\RendererByConsole.cs",
+              "RelativeToolTip": "Game\\RendererByConsole.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAArwDAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T15:29:09.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "World.cs",
               "DocumentMoniker": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\World.cs",
               "RelativeDocumentMoniker": "Game\\World.cs",
               "ToolTip": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\World.cs",
               "RelativeToolTip": "Game\\World.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T15:27:42.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\Program.cs",
               "RelativeDocumentMoniker": "Game\\Program.cs",
               "ToolTip": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\Program.cs",
               "RelativeToolTip": "Game\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T15:23:13.942Z",
               "EditorCaption": ""
