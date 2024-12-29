@@ -46,11 +46,24 @@ namespace RolGame
 
             for (int i = 0; i < worldHeight; i++)
             {
+                
+
                 for (int j = 0; j < worldWidth; j++)
                 {
-                    WorldArray[i, j] = '*'; // Inicializa cada celda con un asterisco
+                    if (j % 2 == 0)
+                    {
+                        WorldArray[i, j] = '▓';
+                    }
+             
+                    else
+                    {
+                        WorldArray[i, j] = ' '; // Inicializa cada celda con un asterisco
+                    }
                 }
+
             }
+            WorldArray[5, 5] = 'M';
+
             return WorldArray;
         }
     }

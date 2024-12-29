@@ -14,15 +14,19 @@ namespace RolGame
         public readonly int worldHeight, worldWidth;
         int CameraHeight;
         int CameraWidth;
-
+        int CameraPosX;
+        int CameraPosY;
 
 
         public RendererByConsole(
             char[,] _world,
-            int _worldHeight, 
+            int _worldHeight,
             int _worldWidth,
-            int _camraHeigth, 
-            int _camraWidth
+            int _camraHeigth,
+            int _camraWidth,
+            int _cameraPosX,
+            int _cameraPosY
+            
         ) 
         {
             World = _world;
@@ -30,6 +34,8 @@ namespace RolGame
             worldWidth = _worldWidth;
             CameraHeight = _camraHeigth;
             CameraWidth = _camraWidth;
+            CameraPosX = _cameraPosX;
+            CameraPosY = _cameraPosY;
         }
 
         public void RendererWorld()
@@ -46,7 +52,18 @@ namespace RolGame
 
         public void RendererCamera()
         {
-            
+            for (int i = 0; i < CameraHeight; i++)
+            {   
+                for (int j = 0; j < CameraWidth; j++)
+                {
+                    Console.SetCursorPosition(i, j);
+                    
+                    Console.WriteLine(World[CameraPosY + j, CameraPosX + i ]);
+                }
+            }   
         }
+        
+
+
     }
 }
