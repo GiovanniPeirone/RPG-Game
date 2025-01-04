@@ -42,8 +42,7 @@
               "RelativeToolTip": "Game\\Character.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T03:17:26.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T03:17:26.47Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Game\\Game.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T03:26:35.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T03:26:35.081Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Game\\RendererByConsole.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAowDsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T15:29:09.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T15:29:09.053Z"
             },
             {
               "$type": "Document",
@@ -79,7 +76,7 @@
               "RelativeDocumentMoniker": "Game\\World.cs",
               "ToolTip": "C:\\Users\\Giovanni Peirone\\Documents\\GitHub\\Rol-Game\\Game\\Game\\World.cs",
               "RelativeToolTip": "Game\\World.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowEkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAEwFAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T15:27:42.238Z",
               "EditorCaption": ""
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Game\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T15:23:13.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T15:23:13.942Z"
             }
           ]
         }

@@ -69,7 +69,7 @@ namespace RolGame
                         WorldArray[i, j] = ',';
                     }
                 }
-
+                /*
                 if (i == 1)
                 {
                     for(int k = 0; k < worldWidth; k++)
@@ -78,7 +78,7 @@ namespace RolGame
                     }
                 }
 
-
+                */
             }
             WorldArray[5, 5] = 'M';
 
