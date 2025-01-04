@@ -62,8 +62,12 @@ namespace RolGame
                 }
             }   
         }
-        
 
+        public void UpdateCameraPosition(int newX, int newY)
+        {
+            CameraPosX = newX;
+            CameraPosY = newY;
+        }
 
     }
 }
